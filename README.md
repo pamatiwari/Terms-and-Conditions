@@ -1,2 +1,111 @@
 # Terms-and-Conditions
 Terms and Conditions 
+
+
+Last updated: 02 January 2026
+
+
+# Introduction
+
+These Terms and Conditions govern your use of the mobile application "phocyyyyy" operated by "GHIIIIIIII".
+
+By downloading, accessing, or using this application, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you must not use the application.
+
+These Terms apply to all users of the application and govern the use of all features and services provided through the app.
+
+
+# Use of the Application
+
+The application is provided for personal and non-commercial use only. Users may use the application to process and edit their own images and videos using the features offered.
+
+You agree to use the application only for lawful purposes and in a manner that does not violate any applicable laws or regulations.
+
+You must not misuse the application, attempt to gain unauthorized access to the application, interfere with its normal operation, or use the application in any way that could harm the service, servers, or other users.
+
+The developer reserves the right to modify, suspend, or discontinue any part of the application at any time without prior notice.
+
+
+# User Responsibilities
+
+By using the application, you agree to use it responsibly and in compliance with these Terms and Conditions.
+
+You are responsible for ensuring that any images or videos you upload, process, or share through the application are owned by you or that you have the necessary rights and permissions to use them.
+
+You agree not to use the application for any unlawful, harmful, abusive, or inappropriate purposes.
+
+You are responsible for maintaining the security of your device while using the application. The developer is not responsible for any loss or damage resulting from misuse of the application or failure to follow these terms.
+
+
+# Content & Media Usage
+
+Users retain full ownership of the images and videos they upload or process using the application.
+
+By using the application, you grant the developer a limited, temporary, and non-exclusive right to process the submitted media solely for the purpose of providing the requested features and services.
+
+The application does not claim ownership of user content and does not use user media for any purpose other than processing and delivering results within the application.
+
+Users are solely responsible for the content they upload and must ensure that their media does not violate any third-party rights, laws, or regulations.
+
+
+# Intellectual Property Rights
+
+All content, features, and functionality of the application, including but not limited to the design, user interface, graphics, logos, software code, and underlying technology, are the intellectual property of the developer and are protected by applicable copyright and intellectual property laws.
+
+You may not copy, modify, distribute, reverse engineer, or exploit any part of the application or its content without prior written permission from the developer.
+
+Nothing in these Terms and Conditions grants you any rights to use the developer’s intellectual property except as expressly permitted for normal use of the application.
+
+
+# Third-Party Services
+
+The application may contain or use third-party services, tools, or links that are provided by external parties and are not owned or controlled by the developer.
+
+These third-party services may have their own terms and privacy policies. By using the application, you acknowledge and agree that the developer is not responsible for the content, policies, or practices of any third-party services.
+
+The application uses third-party services such as advertising and analytics tools to support functionality and improve user experience. Your interaction with these services is governed by their respective terms and policies.
+
+
+# Service Availability
+
+The application is provided on an “as is” and “as available” basis. While we strive to ensure that the application functions smoothly, we do not guarantee that the service will be available at all times or without interruption.
+
+The application may be temporarily unavailable due to maintenance, updates, technical issues, or factors beyond our control.
+
+The developer reserves the right to modify, suspend, or discontinue the application or any part of its services at any time without prior notice.
+
+# Limitation of Liability
+
+The application is provided for general use and informational purposes only. While we make reasonable efforts to ensure the accuracy and reliability of the application, we do not guarantee specific results from the use of the app or its features.
+
+The developer shall not be held liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with the use of, or inability to use, the application, including but not limited to data loss, device issues, or unsatisfactory results.
+
+Users use the application at their own risk. The developer is not responsible for any damages resulting from reliance on the application or misuse of its features.
+
+
+# Termination
+
+We reserve the right to suspend or terminate your access to the application, with or without notice, if you violate these Terms and Conditions or engage in any activity that may harm the application, its services, or other users.
+
+Upon termination, your right to use the application will immediately cease.
+
+Termination of access does not affect any rights or obligations that may have accrued prior to termination.
+
+
+# Changes to Terms
+
+We reserve the right to update or modify these Terms and Conditions at any time. Any changes will be effective immediately upon being posted within the application or on the relevant page.
+
+It is your responsibility to review these Terms periodically. Continued use of the application after any changes constitutes acceptance of the updated Terms and Conditions.
+
+# Governing Law
+
+These Terms and Conditions shall be governed by and construed in accordance with the laws of India.
+
+Any disputes arising in connection with these Terms shall be subject to the exclusive jurisdiction of the courts located in India.
+
+
+# Contact Us 
+
+If you have any questions, concerns, or inquiries regarding these Terms and Conditions or the use of the application, please contact us at:
+
+Email: yourname@email.com
