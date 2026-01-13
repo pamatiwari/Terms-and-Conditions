@@ -156,6 +156,6 @@ Any disputes, claims, or legal proceedings arising out of or in connection with 
 
 If you have any questions, concerns, or inquiries regarding these Terms and Conditions or the use of our application, please feel free to contact us at:
 
-isme abhi email id dalni baki hai 
+isme abhi email id dalni baki hai done
 
 Email: yourname@email.com
