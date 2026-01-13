@@ -32,90 +32,130 @@ Restrictions: You must not misuse the application, attempt to gain unauthorized 
 Service Changes: The developer reserves the right to modify, suspend, or discontinue any part of the application or its services at any time without prior notice.
 
 
-// yaha tak hua upar tak niche ka baaki hai 
 
 # User Responsibilities
 
 
-By using the application, you agree to use it responsibly and in compliance with these Terms and Conditions.
+Ownership & Rights:
+You are solely responsible for the images and videos you upload, process, or share through the application. You must ensure that you own the media or have the necessary legal rights and permissions to use it.
 
-You are responsible for ensuring that any images or videos you upload, process, or share through the application are owned by you or that you have the necessary rights and permissions to use them.
+Prohibited Content:
+You agree not to use the application to process, generate, or share any content that is unlawful, harmful, defamatory, obscene, abusive, invasive of privacy, or otherwise inappropriate.
 
-You agree not to use the application for any unlawful, harmful, abusive, or inappropriate purposes.
+Compliance:
+By using the application, you agree to use it responsibly and in full compliance with these Terms and Conditions and all applicable local, national, and international laws.
 
-You are responsible for maintaining the security of your device while using the application. The developer is not responsible for any loss or damage resulting from misuse of the application or failure to follow these terms.
+Device Security:
+You are responsible for maintaining the security of your device. The developer shall not be held responsible for any loss or damage resulting from unauthorized access to your device or misuse of the application.
+
+Liability for Misuse:
+The developer is not responsible for any legal issues arising from the content you choose to process or generate. You agree to indemnify and hold the developer harmless against any third-party claims, damages, or legal actions related to your use of the application.
+
 
 
 # Content & Media Usage
 
+Ownership:
 Users retain full ownership of the images and videos they upload or process using the application.
 
-By using the application, you grant the developer a limited, temporary, and non-exclusive right to process the submitted media solely for the purpose of providing the requested features and services.
+Limited License:
+By using the application, you grant the developer a limited, temporary, and non-exclusive right to process your submitted media solely for the purpose of providing the requested AI-powered features, including color transfer, color style transformation, and color enhancement.
 
-The application does not claim ownership of user content and does not use user media for any purpose other than processing and delivering results within the application.
+Purpose of Use:
+The application does not claim ownership of your content and does not use your media for any purpose other than processing and delivering the results within the application.
 
-Users are solely responsible for the content they upload and must ensure that their media does not violate any third-party rights, laws, or regulations.
+AI & Storage Policy:
+Your media files are not used to train AI models, are not permanently stored, except as necessary for temporary processing as described in our Privacy Policy, and are not shared with third parties for marketing or promotional purposes.
+
+User Responsibility:
+Users are solely responsible for the content they upload and must ensure that their media does not violate any third-party rights, copyrights, laws, or regulations.
 
 
 # Intellectual Property Rights
 
-All content, features, and functionality of the application, including but not limited to the design, user interface, graphics, logos, software code, and underlying technology, are the intellectual property of the developer and are protected by applicable copyright and intellectual property laws.
+All content, features, and functionality of the application, including but not limited to its design, user interface, graphics, logos, trademarks, software code, algorithms, AI models, and underlying technology, are the exclusive intellectual property of the developer and are protected by applicable copyright, trademark, and other intellectual property laws.
 
-You may not copy, modify, distribute, reverse engineer, or exploit any part of the application or its content without prior written permission from the developer.
+You may not copy, reproduce, modify, distribute, publish, display, transmit, reverse engineer, decompile, disassemble, or otherwise exploit any part of the application or its content without the prior written permission of the developer.
 
-Nothing in these Terms and Conditions grants you any rights to use the developer’s intellectual property except as expressly permitted for normal use of the application.
+You are granted only a limited, non-exclusive, non-transferable, and revocable license to use the application for personal and lawful purposes in accordance with these Terms and Conditions.
+
+Nothing in these Terms and Conditions grants you any ownership rights or intellectual property rights in the application or its content, except for the limited right to use the application as expressly permitted.
 
 
 # Third-Party Services
+
 
 The application may contain or use third-party services, tools, or links that are provided by external parties and are not owned or controlled by the developer.
 
 These third-party services may have their own terms and privacy policies. By using the application, you acknowledge and agree that the developer is not responsible for the content, policies, or practices of any third-party services.
 
-The application uses third-party services such as advertising and analytics tools to support functionality and improve user experience. Your interaction with these services is governed by their respective terms and policies.
+The application uses trusted third-party services such as:
+
+Google AdMob for displaying advertisements.
+
+Firebase Crashlytics for crash reporting and performance monitoring.
+
+These services may collect limited technical and device-related information in accordance with their own privacy policies.
+
+In addition, network services may be used to support server-side AI processing required for color transfer, color style transformation, and color enhancement features. However, your personal images and videos are not shared with advertising or analytics providers and are handled only for providing the requested functionality, as described in our Privacy Policy.
+
+Your interaction with all third-party services is governed by their respective terms and privacy policies.
 
 
-# Service Availability
 
-The application is provided on an “as is” and “as available” basis. While we strive to ensure that the application functions smoothly, we do not guarantee that the service will be available at all times or without interruption.
+# Service Availability & Disclaimer 
 
-The application may be temporarily unavailable due to maintenance, updates, technical issues, or factors beyond our control.
+“As-Is” Basis:
+The application is provided on an “as is” and “as available” basis. While we strive to ensure a smooth experience, the developer makes no warranties, express or implied, regarding the accuracy, reliability, completeness, or quality of any AI-generated results.
 
-The developer reserves the right to modify, suspend, or discontinue the application or any part of its services at any time without prior notice.
+AI Performance:
+You acknowledge that all results are generated by automated AI models and algorithms. The developer does not guarantee that the color transfer, color style transformation, or color enhancement results will be accurate, error-free, or meet your specific expectations.
+
+Service Interruptions:
+The application may be temporarily unavailable due to maintenance, updates, technical issues, server downtime, or factors beyond our control. We do not guarantee uninterrupted or continuous access to the application or its features.
+
+Right to Modify:
+The developer reserves the right to modify, update, suspend, limit, or discontinue any part of the application or its services (including specific AI features) at any time without prior notice.
+
 
 # Limitation of Liability
 
-The application is provided for general use and informational purposes only. While we make reasonable efforts to ensure the accuracy and reliability of the application, we do not guarantee specific results from the use of the app or its features.
+The application is provided for general use and creative purposes only. While we make reasonable efforts to ensure the accuracy, reliability, and proper functioning of the application, we do not guarantee any specific results from the use of the app or its AI-powered features.
 
-The developer shall not be held liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with the use of, or inability to use, the application, including but not limited to data loss, device issues, or unsatisfactory results.
+The developer shall not be held liable for any direct, indirect, incidental, consequential, special, or exemplary damages arising out of or in connection with the use of, or inability to use, the application, including but not limited to data loss, device issues, service interruptions, server downtime, incorrect or unsatisfactory results, or any other technical problems.
 
-Users use the application at their own risk. The developer is not responsible for any damages resulting from reliance on the application or misuse of its features.
+You acknowledge that all results are generated using automated AI models and are provided on an “as-is” basis. Use of the application and its features is entirely at your own risk.
+
+The developer is not responsible for any damages resulting from reliance on the application, misuse of its features, or use of the application in a manner not permitted under these Terms and Conditions.
 
 
 # Termination
 
-We reserve the right to suspend or terminate your access to the application, with or without notice, if you violate these Terms and Conditions or engage in any activity that may harm the application, its services, or other users.
 
-Upon termination, your right to use the application will immediately cease.
+We reserve the right to suspend or terminate your access to the application, with or without prior notice, if you violate these Terms and Conditions, misuse the application, or engage in any activity that may harm the application, its services, systems, or other users.
 
-Termination of access does not affect any rights or obligations that may have accrued prior to termination.
+Upon termination, your right to access and use the application will immediately cease.
 
+Termination does not affect any rights, obligations, or liabilities that have accrued prior to the date of termination, including any provisions that by their nature should survive termination (such as intellectual property rights, limitation of liability, and indemnification).
 
 # Changes to Terms
 
-We reserve the right to update or modify these Terms and Conditions at any time. Any changes will be effective immediately upon being posted within the application or on the relevant page.
 
-It is your responsibility to review these Terms periodically. Continued use of the application after any changes constitutes acceptance of the updated Terms and Conditions.
+We reserve the right to update or modify these Terms and Conditions at any time to reflect changes in our practices, features, or legal requirements. Any changes will become effective immediately upon being posted within the application or on the relevant page.
+
+It is your responsibility to review these Terms periodically. Your continued use of the application after any changes are posted constitutes your acceptance of the updated Terms and Conditions.
 
 # Governing Law
 
+
 These Terms and Conditions shall be governed by and construed in accordance with the laws of India.
 
-Any disputes arising in connection with these Terms shall be subject to the exclusive jurisdiction of the courts located in India.
-
+Any disputes, claims, or legal proceedings arising out of or in connection with these Terms and Conditions or the use of the application shall be subject to the exclusive jurisdiction of the competent courts located in India.
 
 # Contact Us 
 
-If you have any questions, concerns, or inquiries regarding these Terms and Conditions or the use of the application, please contact us at:
+If you have any questions, concerns, or inquiries regarding these Terms and Conditions or the use of our application, please feel free to contact us at:
+
+isme abhi email id dalni baki hai 
 
 Email: yourname@email.com
