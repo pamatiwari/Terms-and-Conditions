@@ -8,13 +8,13 @@ Last updated: 02 January 2026
 # Introduction
 
 
-These Terms and Conditions govern your use of the mobile application “Phocyyyyy”, operated by GHIIIIIIII.
+These Terms and Conditions govern your use of the mobile application “Phorcysty”, operated by GHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII.
 
 By downloading, installing, accessing, or using this application, you agree to be bound by these Terms and Conditions. If you do not agree with any part of these Terms, you must not use the application.
 
 These Terms apply to all users of the application and govern the use of all features and services provided through the app, including AI-powered color transfer, color style transformation, and color enhancement tools.
 
-By using Phocyyyyy, you also acknowledge that you have read and understood our Privacy Policy, which explains how we collect, use, and protect your data. The Privacy Policy forms an integral part of these Terms and Conditions.
+By using Phorcysty, you also acknowledge that you have read and understood our Privacy Policy, which explains how we collect, use, and protect your data. The Privacy Policy forms an integral part of these Terms and Conditions.
 
 The application is intended for users aged 13 years and above. By using the application, you confirm that you meet this age requirement.
 
@@ -156,6 +156,5 @@ Any disputes, claims, or legal proceedings arising out of or in connection with 
 
 If you have any questions, concerns, or inquiries regarding these Terms and Conditions or the use of our application, please feel free to contact us at:
 
-isme abhi email id dalni baki hai done
 
 Email: yourname@email.com
